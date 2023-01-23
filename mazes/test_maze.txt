@@ -1,0 +1,17 @@
+---------------------------------
+| S | O x O | O x O | O x O x O |
+| x | x - x | x - x | x - x - x |
+| O | O | O | O | O | O | O | O |
+| x | x | x | x | x | x | x | x |
+| O | O | O | O | O | O | O | O |
+| x | x | x | x | x | x | x | x |
+| O | O | O | O | O | O | O | O |
+| x | x | x | x | x | x | x | x |
+| O | O | O | O | O | O | O | O |
+| x | x | x | x | x | x | x | x |
+| O | O | O | O | O | O | O | O |
+| x | x | x | x | x | x | x | x |
+| O | O | O | O | O | O | O | O |
+| x - x | x - x | x - x | x | x |
+| O x O | O x O | O x O | O | E |
+---------------------------------
